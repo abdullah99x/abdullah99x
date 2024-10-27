@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer 💯</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [Not Available](Not Available)
 
 - 📫 How to reach me **abdullah66.it@gmail.com**
 
