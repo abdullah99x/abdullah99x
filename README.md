@@ -104,32 +104,3 @@
 </p>
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Trophy:</h3>
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px"></p>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&amp;theme=matrix&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=4&amp;title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supuna97&amp;theme=matrix&amp;no-bg=true&amp;no-frame=true&amp;row=1&amp;column=4&amp;title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=supuna97&amp;theme=midnight-purple&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage&amp;hide=contribs,issues" alt="Supun's GitHub stats"></p>
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=supuna97&amp;theme=midnight-purple" alt="GitHub Streak"></a></p>
-</div>
-<p><br><br></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Activity:</h3>
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=supuna97&amp;custom_title=Supun's%20GitHub%20Activity%20Graph&amp;bg_color=0D1117&amp;color=7F3FBF&amp;line=7F3FBF&amp;point=7F3FBF&amp;area_color=FFFFFF&amp;title_color=FFFFFF&amp;area=true" alt="Supuna97's Graph">
-<br><br></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h3 align="left">Achievements:</h3>
-<p><a href="https://holopin.io/@supuna97"><img src="https://holopin.me/supuna97" alt="An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile"></a>
-<br><br><br></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I’ll be happy to meet you more!</b> :)</em></p>
-<br>
-<p align="right"> Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p> 
