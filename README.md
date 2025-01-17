@@ -70,7 +70,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs,cpp">
+    <img src="https://skillicons.dev/icons?i=php,laravel">
   </a>
 </p>
 <ul>
@@ -78,7 +78,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui">
+    <img src="https://skillicons.dev/icons?i=flutter,dart">
   </a>
 </p>
 <ul>
@@ -86,7 +86,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql">
   </a>
 </p>
 <ul>
