@@ -1,13 +1,13 @@
   <p align="center"><!-- Optional banner goes here--> </p>
 <div>
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg">
-<h2> // About me </h2>
+<h2>About me</h2>
 <ul>
 <li>👨‍💻 Currently working as a <strong>front-end developer</strong></li>
 <li>🤓 Seeking to become a <strong>full-stack developer</strong></li>
 <li>🎓 I’m also pursuing a bachelors degree in <strong>software engineering</strong></li>
 </ul>
-<h2>  // Skills  </h2>
+<h2>  Skills  </h2>
 <ul>
 <li>
 <h3> programming &amp; markup languages </h3>
@@ -47,5 +47,5 @@
 
 --->
 <hr>
-<p><a href="https://github.com/henrymedeiros">username</a>
-Last Edited on: 05/05/2023 format.</p></div> 
+
+
