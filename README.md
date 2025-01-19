@@ -23,7 +23,7 @@
 <p>💬 Ask me about <strong>Java, Python, PHP and NodeJS</strong></p>
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="mailto:supunnanayakkara01@gmail.com">supunnanayakkara01@gmail.com</a></strong></p>
+<p>📫 How to reach me <strong><a href="mailto:abdullahxoff@gmail.com">abdullahxoff@gmail.com</a></strong></p>
 </li>
 <li>
 <p>📄 Know about my experiences <a href="http://supun.traditionalme.life/#resume">my experiences</a></p>
@@ -81,7 +81,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,,vscode,postman,linux">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux">
   </a>
 </p>
 <br>
